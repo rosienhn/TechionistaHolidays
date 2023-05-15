@@ -1,0 +1,5 @@
+# Analyze different types of travelers and their feedback about Techionista Holidays
+
+In this project we worked with an extensive dataset from Techionista Holidays. Among other information, it contains reviews from their users after their stay at a hotel they booked through the Techionista Holidays website. These reviews date from 2015 to 2017 and contain lots of information on how travelers have experienced their stay in various luxurious hotels across Europe. Techionista Holidays managers would love to gain more insight into the different types of travelers and their feedback. These valuable insights can help them improve Techionista's Holidays website and their capability of catering to their users needs.
+
+The reviews pose a challenge as they are in the form of free text fields. While these text fields contain rich information, deriving aggregated insights becomes challenging because the data is qualitative rather than numerical. Analyzing every individual written statement about the hotels would be an impractical task.
